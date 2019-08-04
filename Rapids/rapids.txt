@@ -1,0 +1,7 @@
+Apache Arrow: Arrow Mode
+
+cuDF: GPU data frame
+cuML: sckit learn GPU accelerated
+cuGraph: graph analytics on GPU
+PyTorch: MxNet
+cuXfilter: visualization library like bokeh, plotly
